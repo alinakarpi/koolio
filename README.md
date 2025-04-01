@@ -37,3 +37,4 @@ if __name__ == '__main__':
     gangstas_paradise()
     tr
 qwerty
+up
