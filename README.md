@@ -35,4 +35,3 @@ That the ones we hurt, are you and me.
 
 if __name__ == '__main__':
     gangstas_paradise()
-    tr
